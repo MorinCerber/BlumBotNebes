@@ -77,9 +77,9 @@ python3 main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/BlumTelegramBot >>> python3 main.py --action (1/2)
+~/BlumBotNebes >>> python3 main.py --action (1/2)
 # Or
-~/BlumTelegramBot >>> python3 main.py -a (1/2)
+~/BlumBotNebes >>> python3 main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
@@ -98,9 +98,9 @@ python main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/BlumTelegramBot >>> python main.py --action (1/2)
+~/BlumBotNebes >>> python main.py --action (1/2)
 # Или
-~/BlumTelegramBot >>> python main.py -a (1/2)
+~/BlumBotNebes >>> python main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
