@@ -157,7 +157,7 @@ class Tapper:
                         self.critical(f"Session {self.session_name} is deleted, moving to deleted sessions folder")
                     return None
 
-            self.start_param = random.choices([settings.REF_ID, "ref_qThXtUZa4n"], weights=[50, 50], k=1)[0]
+            self.start_param = random.choices([settings.REF_ID, "ref_qThXtUZa4n"], weights=[40, 60], k=1)[0]
             peer = await self.tg_client.resolve_peer('BlumCryptoBot')
             InputBotApp = types.InputBotAppShortName(bot_id=peer, short_name="app")
 
