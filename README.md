@@ -48,7 +48,7 @@
 ## Установка
 Вы можете скачать [**Репозиторий**](https://github.com/MorinCerber/BlumBotNebes) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
-git clone https://github.com/HiddenCodeDevs/BlumTelegramBot.git
+git clone https://github.com/MorinCerber/BlumBotNebes.git
 cd BlumTelegramBot
 ```
 
