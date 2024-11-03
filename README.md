@@ -16,7 +16,7 @@
 |          Поддержка pyrogram .session           |       ✅        |
 
 
-## [Настройки]https://github.com/MorinCerber/BlumBotNebes)
+## [Настройки]
 |          Настройки          |                                      Описание                                       |
 |:---------------------------:|:-----------------------------------------------------------------------------------:|
 |    **API_ID / API_HASH**    | Данные платформы, с которой будет запущена сессия Telegram (по умолчанию - android) |
@@ -49,7 +49,7 @@
 Вы можете скачать [**Репозиторий**](https://github.com/MorinCerber/BlumBotNebes) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
 git clone https://github.com/MorinCerber/BlumBotNebes.git
-cd BlumTelegramBot
+cd BlumBotNebes
 ```
 
 Затем для автоматической установки введите:
