@@ -16,7 +16,7 @@
 |          Поддержка pyrogram .session           |       ✅        |
 
 
-## [Настройки](https://github.com/HiddenCodeDevs/BlumTelegramBot/blob/main/.env-example/)
+## [Настройки]https://github.com/MorinCerber/BlumBotNebes)
 |          Настройки          |                                      Описание                                       |
 |:---------------------------:|:-----------------------------------------------------------------------------------:|
 |    **API_ID / API_HASH**    | Данные платформы, с которой будет запущена сессия Telegram (по умолчанию - android) |
